@@ -10,9 +10,15 @@ a {
     color: white;
     padding: 10px;
     text-decoration: none;
+    
 }
 
 a:hover {
     background-color: orange;
     color: white;
 }
+
+.R {float:right;}
+.L {float:left;}
+section {overflow:auto;}
+div {width:45%;}
