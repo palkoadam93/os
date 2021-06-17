@@ -3,6 +3,9 @@ body {
     background-color:rgb(60, 60, 60);
     color: white;
 }
+h3 {
+    background-color: grey;
+}
 a {
     text-decoration: none;
     color: orange;
